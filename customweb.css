@@ -1,0 +1,78 @@
+.navbar-brand {
+    padding-left: 50px;
+}
+
+#navbarSupportedContent li {
+    padding: 5px 5px;
+}
+
+.navbar-nav,
+.navbar-form {
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.btnimg:hover,
+.btnbadge:hover,
+.btnfind:hover {
+    background-color: transparent;
+    color: lightskyblue;
+    border: 5px solid rgb(94, 241, 94);
+    text-decoration: underline;
+}
+
+.localcare {
+    text-align: center;
+}
+
+.badges img {
+    padding: 30px 30px;
+    margin-left: 20px;
+}
+
+.badges {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btnbadge {
+    margin-bottom: 20px;
+    padding: 12px 24px;
+}
+
+.servicecard h1 {
+    font-weight: bolder;
+}
+
+.servicecard i {
+    font-size: 45px;
+    color: red;
+}
+
+.servicecard .col-sm-12 {
+    box-shadow: 2px 3px 4px gainsboro;
+}
+
+.scards {
+    padding: 35px !important;
+    margin: 35px !important;
+}
+
+.find {
+    background: orange;
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.find .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+}
+
+.flex-nowrap,
+.mb-3 {
+    padding: 20px 20px;
+}
